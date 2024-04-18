@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068036473066",
+    "project_id": "smartshelterapp",
+    "storage_bucket": "smartshelterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068036473066:android:441c4660ca9f8ca3cfd793",
+        "android_client_info": {
+          "package_name": "com.example.smartshelterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWWQF5NA1rGL3bZDaZusEmlij7nBqLmOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

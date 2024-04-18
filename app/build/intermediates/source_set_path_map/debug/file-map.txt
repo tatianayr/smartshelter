@@ -1,0 +1,39 @@
+com.example.smartshelterapp-firebase-common-20.4.2-0 C:\Users\TatianaY\.gradle\caches\transforms-3\099727ecfa1c00387698de2a4bb50145\transformed\firebase-common-20.4.2\res
+com.example.smartshelterapp-recyclerview-1.1.0-1 C:\Users\TatianaY\.gradle\caches\transforms-3\1ef90f1d46fa6c63117a20cf953b81fb\transformed\recyclerview-1.1.0\res
+com.example.smartshelterapp-annotation-experimental-1.3.0-2 C:\Users\TatianaY\.gradle\caches\transforms-3\23656556f296973340a92232a7fb614a\transformed\annotation-experimental-1.3.0\res
+com.example.smartshelterapp-play-services-base-18.1.0-3 C:\Users\TatianaY\.gradle\caches\transforms-3\26bc952c7fccd555d49019dc1d1d009b\transformed\play-services-base-18.1.0\res
+com.example.smartshelterapp-material-1.11.0-4 C:\Users\TatianaY\.gradle\caches\transforms-3\28a2cb868c3af144ce806ac52ed77043\transformed\material-1.11.0\res
+com.example.smartshelterapp-profileinstaller-1.3.0-5 C:\Users\TatianaY\.gradle\caches\transforms-3\3bbab8215acc742005cfd57e8db7c1aa\transformed\profileinstaller-1.3.0\res
+com.example.smartshelterapp-play-services-maps-18.1.0-6 C:\Users\TatianaY\.gradle\caches\transforms-3\3c33f9db4f1dadae9531d0b3eb7ac089\transformed\play-services-maps-18.1.0\res
+com.example.smartshelterapp-core-1.9.0-7 C:\Users\TatianaY\.gradle\caches\transforms-3\5081bca9afb07483f9cac4368fd4af08\transformed\core-1.9.0\res
+com.example.smartshelterapp-core-ktx-1.9.0-8 C:\Users\TatianaY\.gradle\caches\transforms-3\652a73bd76d70b6093c433135c5329f8\transformed\core-ktx-1.9.0\res
+com.example.smartshelterapp-emoji2-views-helper-1.2.0-9 C:\Users\TatianaY\.gradle\caches\transforms-3\6dbddb7b3bcef41aa9ba787599b66d8c\transformed\emoji2-views-helper-1.2.0\res
+com.example.smartshelterapp-lifecycle-viewmodel-savedstate-2.6.1-10 C:\Users\TatianaY\.gradle\caches\transforms-3\7155afabdf27b4574b44323709740f40\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.smartshelterapp-lifecycle-viewmodel-2.6.1-11 C:\Users\TatianaY\.gradle\caches\transforms-3\7a4e914bdee8b66e0382a6e9d92b4b0c\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.smartshelterapp-core-runtime-2.2.0-12 C:\Users\TatianaY\.gradle\caches\transforms-3\8020ef14aee68ff7b355ae64c33eb8c9\transformed\core-runtime-2.2.0\res
+com.example.smartshelterapp-play-services-basement-18.3.0-13 C:\Users\TatianaY\.gradle\caches\transforms-3\8866ad3e5bdfb8d604750848125b1d97\transformed\play-services-basement-18.3.0\res
+com.example.smartshelterapp-appcompat-resources-1.6.1-14 C:\Users\TatianaY\.gradle\caches\transforms-3\8a2dcd03a8767dcdc11a414a0a13bfe1\transformed\appcompat-resources-1.6.1\res
+com.example.smartshelterapp-startup-runtime-1.1.1-15 C:\Users\TatianaY\.gradle\caches\transforms-3\8b49aa9a80414cbeb79b08b878d53c38\transformed\startup-runtime-1.1.1\res
+com.example.smartshelterapp-savedstate-1.2.1-16 C:\Users\TatianaY\.gradle\caches\transforms-3\8d999eeb50f3385de7e10288d6e40031\transformed\savedstate-1.2.1\res
+com.example.smartshelterapp-lifecycle-livedata-2.6.1-17 C:\Users\TatianaY\.gradle\caches\transforms-3\9490662e57bdcbaad62a3f80056edd0e\transformed\lifecycle-livedata-2.6.1\res
+com.example.smartshelterapp-appcompat-1.6.1-18 C:\Users\TatianaY\.gradle\caches\transforms-3\97e64d9f2a020ef844dfefaa862adcc1\transformed\appcompat-1.6.1\res
+com.example.smartshelterapp-emoji2-1.2.0-19 C:\Users\TatianaY\.gradle\caches\transforms-3\989fa2332aa6ca1830fe33ef303c36a4\transformed\emoji2-1.2.0\res
+com.example.smartshelterapp-fragment-1.3.6-20 C:\Users\TatianaY\.gradle\caches\transforms-3\a26ad940acb968d853f00e5d1b29ca6a\transformed\fragment-1.3.6\res
+com.example.smartshelterapp-constraintlayout-2.1.4-21 C:\Users\TatianaY\.gradle\caches\transforms-3\a4c7d5553d2def7a58444f0581ef538b\transformed\constraintlayout-2.1.4\res
+com.example.smartshelterapp-lifecycle-runtime-2.6.1-22 C:\Users\TatianaY\.gradle\caches\transforms-3\ac5854ec23313d257aae02176767dd51\transformed\lifecycle-runtime-2.6.1\res
+com.example.smartshelterapp-transition-1.2.0-23 C:\Users\TatianaY\.gradle\caches\transforms-3\b1b59a3644a47068c389855a6ded9e08\transformed\transition-1.2.0\res
+com.example.smartshelterapp-drawerlayout-1.1.1-24 C:\Users\TatianaY\.gradle\caches\transforms-3\cb13e6641706997418afa6757b56262c\transformed\drawerlayout-1.1.1\res
+com.example.smartshelterapp-coordinatorlayout-1.1.0-25 C:\Users\TatianaY\.gradle\caches\transforms-3\d05f402b79b8f9b844c5e79f648226f0\transformed\coordinatorlayout-1.1.0\res
+com.example.smartshelterapp-lifecycle-livedata-core-2.6.1-26 C:\Users\TatianaY\.gradle\caches\transforms-3\d306ff65692e0a70169e3c03a97384ad\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.smartshelterapp-viewpager2-1.0.0-27 C:\Users\TatianaY\.gradle\caches\transforms-3\daf4a551bf68f1b85a57f8ab06cfb336\transformed\viewpager2-1.0.0\res
+com.example.smartshelterapp-cardview-1.0.0-28 C:\Users\TatianaY\.gradle\caches\transforms-3\e2c1a7325e4eec63d01831ee64b1efa8\transformed\cardview-1.0.0\res
+com.example.smartshelterapp-activity-1.8.0-29 C:\Users\TatianaY\.gradle\caches\transforms-3\e5139b22c634ad09aa5e14be6065d72a\transformed\activity-1.8.0\res
+com.example.smartshelterapp-lifecycle-process-2.6.1-30 C:\Users\TatianaY\.gradle\caches\transforms-3\f0165aff8d9fda4522c10588904569dc\transformed\lifecycle-process-2.6.1\res
+com.example.smartshelterapp-pngs-31 C:\Users\TatianaY\Desktop\project factory\SmartShelterApp\SmartShelterApp\app\build\generated\res\pngs\debug
+com.example.smartshelterapp-res-32 C:\Users\TatianaY\Desktop\project factory\SmartShelterApp\SmartShelterApp\app\build\generated\res\processDebugGoogleServices
+com.example.smartshelterapp-resValues-33 C:\Users\TatianaY\Desktop\project factory\SmartShelterApp\SmartShelterApp\app\build\generated\res\resValues\debug
+com.example.smartshelterapp-packageDebugResources-34 C:\Users\TatianaY\Desktop\project factory\SmartShelterApp\SmartShelterApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.smartshelterapp-packageDebugResources-35 C:\Users\TatianaY\Desktop\project factory\SmartShelterApp\SmartShelterApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.smartshelterapp-merged_res-36 C:\Users\TatianaY\Desktop\project factory\SmartShelterApp\SmartShelterApp\app\build\intermediates\merged_res\debug
+com.example.smartshelterapp-debug-37 C:\Users\TatianaY\Desktop\project factory\SmartShelterApp\SmartShelterApp\app\src\debug\res
+com.example.smartshelterapp-main-38 C:\Users\TatianaY\Desktop\project factory\SmartShelterApp\SmartShelterApp\app\src\main\res

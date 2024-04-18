@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartShelterApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="google_maps_api_key">AIzaSyBFDaXkO1QDgXZqX9lyW1LOr9ghui6zG6E</string>
+
+</resources>

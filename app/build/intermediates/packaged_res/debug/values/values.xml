@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dirt">#FDFDF6</color>
+    <color name="green">#95D684</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SmartShelterApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">1068036473066</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWWQF5NA1rGL3bZDaZusEmlij7nBqLmOE</string>
+    <string name="google_app_id" translatable="false">1:1068036473066:android:441c4660ca9f8ca3cfd793</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWWQF5NA1rGL3bZDaZusEmlij7nBqLmOE</string>
+    <string name="google_maps_api_key">AIzaSyBFDaXkO1QDgXZqX9lyW1LOr9ghui6zG6E</string>
+    <string name="google_storage_bucket" translatable="false">smartshelterapp.appspot.com</string>
+    <string name="project_id" translatable="false">smartshelterapp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <style name="Base.Theme.SmartShelterApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SmartShelterApp" parent="Base.Theme.SmartShelterApp"/>
+</resources>
